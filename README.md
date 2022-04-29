@@ -1,4 +1,4 @@
-# FBuster v1.3 (@ozzzozon)
+# FBuster v1.3
 
 FBuster is a fast tool to brute force directories and files for websites
 
